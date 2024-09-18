@@ -1,0 +1,107 @@
+/* 
+.selectoption{
+  width: max-content !important;
+  height: 42px !important;
+  display: inline !important;
+  border-radius: 28px !important;
+
+}
+body{
+  overflow: hidden;
+}
+input{
+  height: 42px;
+  width: 170px;
+  border-radius: 28px;
+}
+.inputbardiv{
+  background-color:black;
+  border: 1px solid  red  ;
+  width: 75vw;
+  display: flex;
+  justify-content: space-between;
+  gap: 25px;
+   margin-right: 100px;
+  padding-left: 50px;
+  padding-right: 100px;
+   border-radius: 15px;
+  padding-inline: 10px;
+
+}
+.tblecls{
+  margin: auto;
+}
+center{
+  margin: 25px;
+}
+.addtodobtn{
+  height: 35px;
+  margin-top: auto;
+  margin-bottom:auto;
+  border: 1px solid white !important;
+} */
+.headingtag{
+  font-size: 50px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.inputtab{
+  display: flex;
+  gap: 1vw;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  /* margin-inline: 50px; */
+  border-radius: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.inputbar{
+   width:max-content;
+  
+   /* width: 17vw; */
+  height: 47px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 15px;
+  color: black;
+  border-radius: 50px;
+}
+.selectoption{
+  width: max-content !important;
+  /* height: 100px !important; */
+  height: 42px !important;
+  display: inline !important;
+  border-radius: 28px !important;
+  padding-left: 30px !important;
+  /* padding-right: 20px !important; */
+
+}
+.addtodobtn{
+  height: 42px;
+  width: 65px !important;
+  margin-top: auto;
+  margin-bottom:auto;
+  border: 1px solid white !important;
+}
+.hdelete{
+  height: 42px;
+  width: 65px;
+}
+.icondlt{
+  height: 35px;
+  width: 20px;
+}
+.addbtn{
+  width: 20px;
+  height: 35px;
+}
+.allclearbtn{
+  margin: 20px;
+
+}
+button:hover .stars {
+  display: block;
+  filter: drop-shadow(0 0 10px #fffdef)
+}
